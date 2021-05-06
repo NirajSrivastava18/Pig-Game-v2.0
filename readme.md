@@ -1,4 +1,4 @@
-#Pig Game v2.0
+# Pig-Game-v2.0
 
 Updated version of the Game
 

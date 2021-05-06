@@ -2,4 +2,4 @@
 
 Updated version of the Game
 
-![](images/game1.png)
+![](images/game2.png)
